@@ -13,7 +13,7 @@ Deliver configurable, API-driven web experiences that evolve through configurati
 ## What it is (positioning)
 
 **Build and update full HTML pages (with JavaScript API connectors) directly from Postman—without redeploying your web app.**
-Teams can publish UI modules, wire them to REST endpoints, and control the end-to-end behavior through a **JSON workflow** that routes requests, applies rules, and orchestrates API calls.
+Teams can publish UI modules, wireframes publishng them to REST endpoints, and control the end-to-end behavior through a **JSON workflow** that routes requests, applies rules, and orchestrates API calls.
 
 ## Core value proposition
 
