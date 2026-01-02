@@ -151,14 +151,12 @@ Instead of paying the “tax” of repeated development, testing, and redeployme
 
 ---
 
-# Marketing “Feature Overview” (short paragraph)
+# Marketing “Feature Overview” 
 
 Using Postman as your control plane, teams can publish HTML pages and JavaScript API connectors directly into a configurable portal—no redeploy required. Workflows are defined in JSON to route requests, enforce rules, orchestrate API calls, and standardize authentication. The result is a faster, safer way to deliver client-specific experiences and API-driven portals with real governance and real-time updates.
 
 ---
 
-
----
 
 ## Postman messaging (how you’d describe it in marketing terms)
 
@@ -167,26 +165,9 @@ Using Postman as your control plane, teams can publish HTML pages and JavaScript
 * **Requests = Deployments** (push UI page + JS connector + workflow JSON)
 * **Tests = Guardrails** (schema checks, linting, smoke tests before publish)
 
----
-Absolutely—here’s a **marketing-grade expansion** of the **Core Value Proposition**, written so you can lift sections directly into a website, pitch deck, or product one-pager. I’ve kept the tone clear, confident, and business-focused, while still resonating with technical buyers and solution architects.
 
 
 
-
-If you want next, I can:
-
-* Turn this into a **“Problem → Solution → Outcome”** section
-* Map “What it’s for” to **specific industries** (Insurance, Healthcare, Public Sector, Financial Services)
-* Create a **diagram-backed explainer** that visually shows *why* this exists
-
-Just say the word.
-
-Just tell me how you plan to use it.
-
-
-Here’s a **polished, marketing-ready “Problem → Solution → Outcome” section** that you can drop directly into a product page, pitch deck, proposal, or PRD. It’s written for both executive and technical audiences, with clear cause-and-effect flow.
-
----
 
 ## Problem → Solution → Outcome
 
@@ -236,24 +217,13 @@ The result is a platform that moves at the speed of the business—while remaini
 
 ---
 
-## Executive Summary (1-Line)
+## Executive Summary 
 
 **Replace slow, code-heavy updates with a configuration-driven model that delivers instant, governed change across UI and APIs.**
 
 ---
 
-If you’d like next, I can:
 
-* Create a **1-slide visual version** of this section
-* Map each outcome to **quantifiable KPIs** (time-to-market, cost, MTTR)
-* Tailor this to a **specific industry** (Insurance, Healthcare, Public Sector, Financial Services)
-
-Just tell me where this is going.
-
-
-Below is a **detailed, end-to-end Mermaid diagram** you can drop directly into your GitHub README or docs. It shows **Postman → HTML/JS Pages → JSON Workflow → API orchestration → Observability**, aligned with your marketing narrative.
-
----
 
 ## High-Level Architecture + Runtime Flow (Mermaid)
 
@@ -400,27 +370,4 @@ All orchestration is centralized and governed.
 
 ---
 
-### 5️⃣ Observability & Governance
 
-Each workflow execution emits:
-
-* Logs for troubleshooting
-* Metrics for performance and success rates
-* Traces for end-to-end visibility
-* Audit records for versioning and compliance
-
----
-
-## One-Line Diagram Caption (Marketing Use)
-
-**A Postman-controlled platform where UI, API connectors, and workflows evolve through configuration—without redeploying applications.**
-
----
-
-If you want next, I can:
-
-* Create a **sequence diagram** (step-by-step request lifecycle)
-* Provide a **multi-tenant variant** with per-client routing highlighted
-* Add an **Azure-mapped version** (Functions, APIM, App Insights)
-
-Just tell me how deep you want to go.
