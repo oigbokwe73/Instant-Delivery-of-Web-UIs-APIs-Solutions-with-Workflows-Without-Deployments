@@ -1,4 +1,4 @@
-o# Instant-Web-Delivery-UI-API-Workflows-Without-Redeployments
+# Instant-Web-Delivery-UI-API-Workflows-Without-Redeployments
 Deliver configurable, API-driven web experiences that evolve through configuration—not code. This project shows how Postman and JSON workflows enable instant UI updates, dynamic routing, and enterprise-ready governance across tenants and environments.
 
 
@@ -134,7 +134,7 @@ Instead of paying the “tax” of repeated development, testing, and redeployme
 ---
 
 
-## Key benefits (marketing bullets)
+## Key benefits 
 
 * **Zero-code updates (for UI + workflow rules)** using Postman collections & environments
 * **Multi-tenant ready** with per-client configurations, keys, and routing policies
@@ -153,12 +153,12 @@ Instead of paying the “tax” of repeated development, testing, and redeployme
 
 # Marketing “Feature Overview” 
 
-Using Postman as your control plane, teams can publish HTML pages and JavaScript API connectors directly into a configurable portal—no redeploy required. Workflows are defined in JSON to route requests, enforce rules, orchestrate API calls, and standardize authentication. The result is a faster, safer way to deliver client-specific experiences and API-driven portals with real governance and real-time updates.
+Using Postman as your control plane, teams can publish HTML pages, JavaScript and configure workflows for api connectors  directly into a configurable portal—no redeploy required. Workflows are defined in JSON to route requests, enforce rules, orchestrate API calls, and standardize authentication. The result is a faster, safer way to deliver client-specific experiences and API-driven portals with real governance and real-time updates.
 
 ---
 
 
-## Postman messaging (how you’d describe it in marketing terms)
+## Postman messaging 
 
 * **Postman Collection = Your publishing pipeline** (create/update pages, scripts, workflows)
 * **Postman Environment = Tenant configuration** (base URLs, API keys, feature flags)
