@@ -15,59 +15,7 @@ Deliver configurable, API-driven web experiences that evolve through configurati
 **Build and update full HTML pages (with JavaScript API connectors) directly from Postman—without redeploying your web app.**
 Teams can publish UI modules, wireframes publishng them to REST endpoints, and control the end-to-end behavior through a **JSON workflow** that routes requests, applies rules, and orchestrates API calls.
 
-## Core value proposition
-
-* **Ship UI updates instantly**: Update HTML/JS “pages” via Postman in minutes—no rebuild, no release window.
-* **Connect to any API**: Standard REST connectors (GET/POST/PUT/DELETE), token headers, x-api-key routing, and environment variables.
-* **Workflow is the product**: Define routing, validation, transformations, retries, and fallbacks using **JSON workflow definitions**.
-* **Empower non-dev teams**: Product, operations, and solution engineers can safely publish content and flows with guardrails.
-
-## Who it’s for
-
-* **Solution Engineers / Sales Engineering**: Build demo portals fast, customize per client, and keep everything API-real.
-* **Product Teams**: Launch new screens and experiences without waiting on app releases.
-* **Operations**: Update forms, messages, and routing rules during incidents or process changes.
-* **Developers**: Keep the platform stable while business logic + UX evolves through configuration.
-
-## Key benefits (marketing bullets)
-
-* **Zero-code updates (for UI + workflow rules)** using Postman collections & environments
-* **Multi-tenant ready** with per-client configurations, keys, and routing policies
-* **Consistent API governance** (headers, auth, throttling, schema validation, logging)
-* **Reusable templates** for intake forms, admin portals, dashboards, and search pages
-* **Faster time-to-value** for client onboarding, pilots, and proofs-of-concept
-
-## Example use cases
-
-* **Client-specific portals**: Same base app, different pages + workflows per customer.
-* **Rapid onboarding & intake**: Publish forms that validate and submit directly to APIs.
-* **Operational runbooks**: Update workflows (reroutes, fallbacks) instantly during outages.
-* **Config-driven dashboards**: HTML widgets that call APIs and render KPIs on load.
-
----
-
-# Marketing “Feature Overview” (short paragraph)
-
-Using Postman as your control plane, teams can publish HTML pages and JavaScript API connectors directly into a configurable portal—no redeploy required. Workflows are defined in JSON to route requests, enforce rules, orchestrate API calls, and standardize authentication. The result is a faster, safer way to deliver client-specific experiences and API-driven portals with real governance and real-time updates.
-
----
-
-
----
-
-## Postman messaging (how you’d describe it in marketing terms)
-
-* **Postman Collection = Your publishing pipeline** (create/update pages, scripts, workflows)
-* **Postman Environment = Tenant configuration** (base URLs, API keys, feature flags)
-* **Requests = Deployments** (push UI page + JS connector + workflow JSON)
-* **Tests = Guardrails** (schema checks, linting, smoke tests before publish)
-
----
-Absolutely—here’s a **marketing-grade expansion** of the **Core Value Proposition**, written so you can lift sections directly into a website, pitch deck, or product one-pager. I’ve kept the tone clear, confident, and business-focused, while still resonating with technical buyers and solution architects.
-
----
-
-## Core Value Proposition (Expanded)
+## Core Value Proposition 
 
 ### 🚀 Ship UI & Workflow Changes Instantly — No Rebuilds, No Downtime
 
@@ -118,6 +66,53 @@ Whether launching a new client portal, customizing a demo, or responding to oper
 ---
 
 Below is a **clear, expanded, marketing-ready version of “What it’s for”**, written to explain *why* organizations adopt this capability and *where* it delivers the most impact. This is suitable for websites, pitch decks, RFP responses, or solution briefs.
+
+---
+
+## Who it’s for
+
+* **Solution Engineers / Sales Engineering**: Build demo portals fast, customize per client, and keep everything API-real.
+* **Product Teams**: Launch new screens and experiences without waiting on app releases.
+* **Operations**: Update forms, messages, and routing rules during incidents or process changes.
+* **Developers**: Keep the platform stable while business logic + UX evolves through configuration.
+
+## Key benefits (marketing bullets)
+
+* **Zero-code updates (for UI + workflow rules)** using Postman collections & environments
+* **Multi-tenant ready** with per-client configurations, keys, and routing policies
+* **Consistent API governance** (headers, auth, throttling, schema validation, logging)
+* **Reusable templates** for intake forms, admin portals, dashboards, and search pages
+* **Faster time-to-value** for client onboarding, pilots, and proofs-of-concept
+
+## Example use cases
+
+* **Client-specific portals**: Same base app, different pages + workflows per customer.
+* **Rapid onboarding & intake**: Publish forms that validate and submit directly to APIs.
+* **Operational runbooks**: Update workflows (reroutes, fallbacks) instantly during outages.
+* **Config-driven dashboards**: HTML widgets that call APIs and render KPIs on load.
+
+---
+
+# Marketing “Feature Overview” (short paragraph)
+
+Using Postman as your control plane, teams can publish HTML pages and JavaScript API connectors directly into a configurable portal—no redeploy required. Workflows are defined in JSON to route requests, enforce rules, orchestrate API calls, and standardize authentication. The result is a faster, safer way to deliver client-specific experiences and API-driven portals with real governance and real-time updates.
+
+---
+
+
+---
+
+## Postman messaging (how you’d describe it in marketing terms)
+
+* **Postman Collection = Your publishing pipeline** (create/update pages, scripts, workflows)
+* **Postman Environment = Tenant configuration** (base URLs, API keys, feature flags)
+* **Requests = Deployments** (push UI page + JS connector + workflow JSON)
+* **Tests = Guardrails** (schema checks, linting, smoke tests before publish)
+
+---
+Absolutely—here’s a **marketing-grade expansion** of the **Core Value Proposition**, written so you can lift sections directly into a website, pitch deck, or product one-pager. I’ve kept the tone clear, confident, and business-focused, while still resonating with technical buyers and solution architects.
+
+
 
 ---
 
