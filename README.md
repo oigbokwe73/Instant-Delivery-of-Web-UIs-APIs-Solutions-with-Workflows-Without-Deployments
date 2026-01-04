@@ -1,4 +1,4 @@
-# Instant Web-Delivery UI API Workflows Without Deployments
+# Instant Web-Delivery UI, API and Workflows Without Deployments
 Deliver configurable, API-driven web experiences that evolve through configuration—not code. This project shows how Postman and JSON workflows enable instant UI updates, dynamic routing, and enterprise-ready governance across tenants and environments.
 
 
@@ -10,7 +10,7 @@ Deliver configurable, API-driven web experiences that evolve through configurati
 * **Workflow-as-JSON Delivery Platform**
 * **Configurable Portal Pages (No-Rebuild)**
 
-## What it is (positioning)
+## What is this solution possitioned for
 
 **Build and update full HTML pages (with JavaScript API connectors) directly from Postman using the xenhey service offering without redeploying your web app.**
 Teams can publish UI modules, wireframes publishng them to REST endpoints, and control the end-to-end behavior through a **JSON workflow** that routes requests, applies rules, and orchestrates API calls.
