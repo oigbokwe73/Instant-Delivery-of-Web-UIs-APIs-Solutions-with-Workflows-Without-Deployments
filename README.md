@@ -1,4 +1,4 @@
-# Instant Web-Delivery UI, API and Workflows Without Deployments
+# Instant Delivery of Web UI, API with Workflows Without Deployments
 Deliver configurable, API-driven web experiences that evolve through configuration—not code. This project shows how Postman and JSON workflows enable instant UI updates, dynamic routing, and enterprise-ready governance across tenants and environments.
 
 
