@@ -10,10 +10,10 @@ Deliver configurable, API-driven web experiences that evolve through configurati
 * **Workflow-as-JSON Delivery Platform**
 * **Configurable Portal Pages (No-Rebuild)**
 
-## What is this solution possitioned for
+## What is this solution positioned for
 
 **Build and update full HTML pages (with JavaScript API connectors) directly from Postman using the xenhey service offering without redeploying your web app.**
-Teams can publish UI modules, wireframes publishng them to REST endpoints, and control the end-to-end behavior through a **JSON workflow** that routes requests, applies rules, and orchestrates API calls.
+Teams can publish UI modules, wireframes publishing them to REST endpoints, and control the end-to-end behavior through a **JSON workflow** that routes requests, applies rules, and orchestrates API calls.
 
 ## Core Value Proposition 
 
